@@ -1,0 +1,8 @@
+               ***************************************************************************************************
+               | RENT ID    |  MOVIE NAME             | MOVIE GENRE       | MOVIE YEAR | PRICE PER DAY | STOCK/S |
+               ***************************************************************************************************
+               | 1          |  Insidious 1            | Horror            | 2017       | P120.00       | 5       |
+               | 2          |  Sinsister              | Horror            | 2012       | P120.00       | 5       |
+               | 3          |  The Conjuring          | Horror            | 2013       | P120.00       | 5       |
+               | 4          |  Hereditary             | Horror            | 2018       | P120.00       | 5       |
+               | 5          |  Orphan:First Kill      | Horror            | 2022       | P120.00       | 5       |

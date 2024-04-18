@@ -1,0 +1,8 @@
+               ***************************************************************************************************
+               | RENT ID    |  MOVIE NAME             | MOVIE GENRE       | MOVIE YEAR | PRICE PER DAY | STOCK/S |
+               ***************************************************************************************************
+               | 1          |  Lord of the Rings      | Adventure         | 2001       | P108.00       | 5       |
+               | 2          |  The Santa Clause       | Adventure         | 2006       | P108.00       | 5       |
+               | 3          |  Avatar                 | Adventure         | 2009       | P108.00       | 5       |
+               | 4          |  Brave                  | Adventure         | 2011       | P120.00       | 5       |
+               | 5          |  Greyhound              | Adventure         | 2020       | P120.00       | 5       |
